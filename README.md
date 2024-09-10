@@ -1,0 +1,2 @@
+# JingyunVLM_labelimg
+用于构建drive-VLM项目数据集的环境描述，可选车道以及元动作的标注
